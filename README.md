@@ -106,11 +106,3 @@ Feel free to customize and enhance this bot for your specific needs. 😊
 
 Thank you for reading this repo! 🎉
 
-```bash
-#!/bin/bash
-
-echo -e "\e[1;32mThank You For Reading This Repo! 😊\e[0m"
-sleep 1
-echo -e "\e[1;34mVisit: https://github.com/abirxdhackz/Mash-CC-Checker-Bot\e[0m"
-sleep 1
-echo -e "\e[1;36mWe hope you enjoy using this project! 🚀\e[0m"
